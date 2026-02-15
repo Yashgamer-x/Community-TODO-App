@@ -4,3 +4,19 @@
     -fx-background-size: 100% 100%; /* Ensures the image covers the entire area */
     -fx-background-position: center center;
 }
+
+.login-option-text{
+    -fx-text-fill: white;
+    -fx-font-size: 24;
+}
+
+.login-option-box{
+    -fx-border-color: transparent transparent white transparent;
+    -fx-border-width: 2;
+}
+
+.login-option-container{
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+}
